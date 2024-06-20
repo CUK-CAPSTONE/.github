@@ -1,12 +1,13 @@
 # JRGB (자린고비 프로젝트)
-
-<img src = "https://github.com/Cybecho/Project_JRGB/blob/main/img/gif/JRGB_logo.gif" alt = "JRGB Logo">
-
+<a href="https://master--jrgb-3dprint.netlify.app/">
+  <img src = "https://github.com/Cybecho/Project_JRGB/blob/main/img/gif/JRGB_logo.gif" alt = "JRGB Logo">
+</a>
 <br>
 
 # 📖 프로젝트 소개
 
-생성형 AI와 3d print를 활용한 사용자 맞춤 3D 악세사리 출력 서비스
+생성형 AI와 3d print를 활용한 사용자 맞춤 3D 악세사리 출력 서비스<br>
+위의 로고를 클릭하면 서비스 이용이 가능합니다.
 
 <br>
 
@@ -17,10 +18,5 @@
 
 <br>
 
-# 📝 Service
-
-추후 인터페이스와 기능 소개 작성...
-
-<br>
-
-참고자료 : [Swagger API 문서](https://capstone.hyunn.site/swagger-ui/index.html)
+# 📝 Description
+프로젝트에 대한 전반적인 설명과 서비스에 대한 시연 영상이 포함된 [발표 영상](https://www.youtube.com/watch?v=ZWVOgQ6WW7c)입니다.
